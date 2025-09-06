@@ -105,7 +105,6 @@ Bachelor of Technology in Information Technology | Sept 2022 – Dec 2026
 [![AWS Badges](https://img.shields.io/badge/-AWS%20Certifications-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/326081f6-69c3-416b-86c1-0e7ed85d26bd/public_url)
 
 ## 📱 Contact Information
-📞 **Phone:** +91 9695136939  
 📧 **Email:** aryansinghbisht19@gmail.com
 
 ---
